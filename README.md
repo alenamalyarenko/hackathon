@@ -10,20 +10,13 @@ Organiser: Alena Malyarenko
 * 31 July 2024 - FH 3   - Jupiter Notebook for model output 
 
 
-## Principles:
-  Shared code on GitHub - for us and everyone else 
-  
-  User-friendly, well-documented, inviting code!
-  
-  Shared understanding of our data storage (not just Marwan)
-  
-  Community-building
-  
-  Learning Python together
-  
-  High level approach to Python notebooks
-  
-  Multiple projects: Fire, Aerial Invaders, Teaching, PhD students 
-  
-  Utilising what is already working: SEE-TRX4002-4001 4003 Jupyter server 
+## Our Principles:
+* Shared code on GitHub - for us and everyone else 
+* User-friendly, well-documented, inviting code!
+* Shared understanding of our data storage (not just Marwan)
+* Community-building
+* Learning Python together
+* High-level approach to Python notebooks
+* Multiple projects: Fire, Aerial Invaders, Teaching, PhD students 
+* Utilising what is already working: SEE-TRX4002-4001 4003 Jupyter server 
 
