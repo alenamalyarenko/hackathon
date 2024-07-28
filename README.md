@@ -6,9 +6,8 @@ Organiser: Alena Malyarenko
 ## Meetings:
 * 22 May 2024  - FH 1   - Intro to Hackathon
 * 10 June 2024 - FH 1.5 - Intro to Git, LaTeX
-* 26 June 2024 - FH 2   - Into to Modelling
-* 25 June 2024 - FH 3   - Test Case results from RegcM and WRF
-* 31 July 2024 - FH 4   - Jupiter Notebook for model output 
+* 26 June 2024 - FH 2   - Into to Modelling; Test Case results from RegcM and WRF
+* 31 July 2024 - FH 3   - Jupiter Notebook for model output 
 
 
 ## Principles:
